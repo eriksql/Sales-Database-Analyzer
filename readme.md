@@ -41,7 +41,6 @@ The application creates a sales database, inserts sample sales records, and exec
 
 ## Project Structure
 
-```text
 sales-database-analyzer
 │
 ├── data
@@ -53,13 +52,11 @@ sales-database-analyzer
 ├── src
 │   ├── database.py
 │   ├── queries.py
-│   ├── report.py
 │   └── main.py
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
 ## How to Run
 
