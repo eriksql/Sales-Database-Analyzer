@@ -41,6 +41,7 @@ The application creates a sales database, inserts sample sales records, and exec
 
 ## Project Structure
 
+```text
 sales-database-analyzer
 │
 ├── data
@@ -57,6 +58,7 @@ sales-database-analyzer
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## How to Run
 
